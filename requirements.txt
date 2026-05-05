@@ -1,0 +1,8 @@
+pip
+jax
+flax
+optax
+tqdm
+matplotlib
+pandas
+scikit-learn
